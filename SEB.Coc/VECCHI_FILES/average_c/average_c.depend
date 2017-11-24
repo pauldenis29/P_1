@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507461016 source:c:\users\dell\desktop\seb.coc\average_c\main.c
+	<stdio.h>
+	<stdlib.h>
+
